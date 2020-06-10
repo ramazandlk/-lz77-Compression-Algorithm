@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1589127513 source:c:\users\ramazandulek\desktop\ramoc\prolab2\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+
+1589742362 source:c:\users\ramazandulek\desktop\prolab2\main.c
+	<stdio.h>
+	<stdint.h>
+	<string.h>
+	<stdlib.h>
+
